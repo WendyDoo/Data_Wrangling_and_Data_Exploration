@@ -1,7 +1,7 @@
 # Data_wrangling_and_Data_visualisation_Projects
 Welcome to my personal projects!
 
-This section provides personal projects covering imporatnt aspects of data sceince. The uploaded files contain data wrangling, data exploration, data integration and reshaping. The purposes are to explore, analyse and understand deeply the provided datasets and generate key insights of the topic.  
+This section provides personal projects covering important aspects of data science. The uploaded files contain data wrangling, data exploration, data integration and reshaping using Python. The purposes are to explore, analyse and understand deeply the provided datasets and generate key insights of the topic.  
 
 The data visualisation using Shiny R was uploaded. The project topic is Crime and Alcohol-specific deaths analysis before and during the Coronavirus pandemic in England and Wales. 
 
