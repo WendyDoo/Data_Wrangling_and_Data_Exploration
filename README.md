@@ -15,3 +15,6 @@ Data Integration: Combine data from various sources to create a unified dataset.
 Data Reshaping: Restructure datasets, pivot tables, and reshape data for specific analytical needs.
 
 Data Visualization: Create informative visualizations to explore patterns and trends in the data.
+
+# How to run and deploy the Shiny app:
+The orginal code using Shiny R is uploaded. To run the complete app and see my final product, please open your Browser and run this link http://127.0.0.1:5475
