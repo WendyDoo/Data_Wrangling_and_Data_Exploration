@@ -5,8 +5,13 @@ Secondly, the data visualisation using Shinny R was uploaded. The project topic 
 
 # Key Features:
 Data Cleaning: Identify and handle missing values, duplicates, and outliers.
+
 Data Transformation: Modify variables, create new features, and reformat data.
+
 Data Exploration: Understand the characteristics of the dataset before analysis.
+
 Data Integration: Combine data from various sources to create a unified dataset.
+
 Data Reshaping: Restructure datasets, pivot tables, and reshape data for specific analytical needs.
+
 Data Visualization: Create informative visualizations to explore patterns and trends in the data.
